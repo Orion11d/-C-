@@ -1,0 +1,7 @@
+C:\Users\dante\source\repos\Point2D\obj\Debug\Point2D.csprojAssemblyReference.cache
+C:\Users\dante\source\repos\Point2D\obj\Debug\Point2D.csproj.CoreCompileInputs.cache
+C:\Users\dante\source\repos\Point2D\bin\Debug\Point2D.exe.config
+C:\Users\dante\source\repos\Point2D\bin\Debug\Point2D.exe
+C:\Users\dante\source\repos\Point2D\bin\Debug\Point2D.pdb
+C:\Users\dante\source\repos\Point2D\obj\Debug\Point2D.exe
+C:\Users\dante\source\repos\Point2D\obj\Debug\Point2D.pdb
