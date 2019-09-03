@@ -1,0 +1,7 @@
+C:\Users\dante\source\repos\LinearEquation\bin\Debug\LinearEquation.exe.config
+C:\Users\dante\source\repos\LinearEquation\bin\Debug\LinearEquation.exe
+C:\Users\dante\source\repos\LinearEquation\bin\Debug\LinearEquation.pdb
+C:\Users\dante\source\repos\LinearEquation\obj\Debug\LinearEquation.csprojAssemblyReference.cache
+C:\Users\dante\source\repos\LinearEquation\obj\Debug\LinearEquation.csproj.CoreCompileInputs.cache
+C:\Users\dante\source\repos\LinearEquation\obj\Debug\LinearEquation.exe
+C:\Users\dante\source\repos\LinearEquation\obj\Debug\LinearEquation.pdb
